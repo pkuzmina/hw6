@@ -44,3 +44,17 @@
 Щепки – тонка деревянная пластинка, частица 
 
 ![alt text](https://raw.githubusercontent.com/pkuzmina/hw6/master/щепки_контекст.png) 
+
+4. Анализ контекстов в "Анне Карениной" 
+
+Держится – следовать чему-нибудь, сохраняться, находиться поблизости 
+
+![alt text](https://raw.githubusercontent.com/pkuzmina/hw6/master/держится_контекст.png)
+
+Сошлись – прийти в одно место, встретиться, сдружиться 
+
+![alt text](https://raw.githubusercontent.com/pkuzmina/hw6/master/сошлись_контекст.png) 
+
+Цвет – окраска, цветок, элита
+
+![alt text](https://raw.githubusercontent.com/pkuzmina/hw6/master/цвет_контекст.png)
