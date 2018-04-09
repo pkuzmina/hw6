@@ -80,3 +80,8 @@
 ![alt text](https://raw.githubusercontent.com/pkuzmina/hw6/master/N-gram_цвет.png)
 
 ![alt text](https://raw.githubusercontent.com/pkuzmina/hw6/master/N-gram_цвет2.png)
+
+Вывод
+------
+
+На основе данное анализа труда сделать серьёзные выводы об особенностях стилей сравниваемых писателей. Сопоставление использований разных наборов слов не дает каких-либо оснований для сравнения авторских стилей. 
